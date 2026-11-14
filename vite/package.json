@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.9",
+    "localbase": "^0.8.3",
     "vue": "^3.5.44"
   },
   "devDependencies": {
